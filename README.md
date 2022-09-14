@@ -120,3 +120,5 @@ Possible reasons for test suspension are change requests, high-volume defects, u
 | Olumayowa Olukoya |Test Analyst|Author |14/09/2022|Yes||
 ||Lead Developer|Information||||
 
+# WALKTHROUGH VIDEO
+[Here](https://drive.google.com/file/d/1cvs-H_N7SPhgAwdBMG2ELiZCf2g41m_C/view?usp=sharing) is the walkthrough video 
